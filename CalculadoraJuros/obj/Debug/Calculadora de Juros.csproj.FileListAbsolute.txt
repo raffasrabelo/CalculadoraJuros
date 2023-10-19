@@ -1,0 +1,11 @@
+C:\Users\11909018627\source\repos\Calculadora de Juros\bin\Debug\Calculadora de Juros.exe.config
+C:\Users\11909018627\source\repos\Calculadora de Juros\bin\Debug\Calculadora de Juros.exe
+C:\Users\11909018627\source\repos\Calculadora de Juros\bin\Debug\Calculadora de Juros.pdb
+C:\Users\11909018627\source\repos\Calculadora de Juros\obj\Debug\Calculadora de Juros.csproj.AssemblyReference.cache
+C:\Users\11909018627\source\repos\Calculadora de Juros\obj\Debug\Calculadora de Juros.csproj.SuggestedBindingRedirects.cache
+C:\Users\11909018627\source\repos\Calculadora de Juros\obj\Debug\Calculadora_de_Juros.Form1.resources
+C:\Users\11909018627\source\repos\Calculadora de Juros\obj\Debug\Calculadora_de_Juros.Properties.Resources.resources
+C:\Users\11909018627\source\repos\Calculadora de Juros\obj\Debug\Calculadora de Juros.csproj.GenerateResource.cache
+C:\Users\11909018627\source\repos\Calculadora de Juros\obj\Debug\Calculadora de Juros.csproj.CoreCompileInputs.cache
+C:\Users\11909018627\source\repos\Calculadora de Juros\obj\Debug\Calculadora de Juros.exe
+C:\Users\11909018627\source\repos\Calculadora de Juros\obj\Debug\Calculadora de Juros.pdb
